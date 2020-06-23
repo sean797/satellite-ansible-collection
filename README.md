@@ -13,6 +13,7 @@ For support questions around this collection, please open a ticket on the [Red H
 ## Installation
 
 You can install this collection directly from Automation Hub or via RPMs provided by Red Hat.
+In both cases you will require the `python2-apypie` RPM provided in the Red Hat Satellite repositories.
 
 The GitHub repository serves as the source for the release and should not be used for direct installation and consumption of the collection.
 
